@@ -6,17 +6,13 @@ This repository contains all seven projects for the Agentic AI
 Each project lives in its own folder with its own README, requirements, and setup instructions.
 
 ## Projects
-
-| # | Project | Domain | Main Concepts |
-|---|---------|--------|----------------|
-| 1 | [Intelligent Task Execution Agent](./project-01) | Study-Prep Agent | ReAct, Tool Calling, LangChain |
-| 2 | [Knowledge-Based Decision Agent](./project-02) | Academic Advisor Agent | Agentic RAG, Chroma, LangGraph |
-| 3 | [Multi-Agent Problem Solving System](./project-03) | Career Roadmap Advisor | Multi-Agent Workflow, LangGraph |
-| 4 | [Automated Document Processing System](./project-04) | Invoice Processing & Validation | RAG, Pydantic, Chroma |
-| 5 | [Intelligent Communication Assistant](./project-05) | Complaint Triage & Escalation | Tool Calling, Email, Notifications |
-| 6 | [Telegram Agentic AI Assistant](./project-06) | Course Helpdesk Bot | Telegram Bot, LangGraph, RAG + Tools |
-| 7 | [Independent Final Project](./project-07-final) | AI Procurement Intelligence & Negotiation Agent | Multi-Agent, RAG, Deterministic Scoring, Critic Validation |
-
+Project 1 — Intelligent Task Execution Agent 
+Project 2 — Knowledge-Based Decision Agent 
+Project 3 — Multi-Agent Problem Solving System
+Project 4 — Automated Document Processing System 
+Project 5 — Intelligent Communication Assistant 
+Project 6 — Telegram Agentic AI Assistant 
+Project 7 — AI Procurement Intelligence & Negotiation Agent
 ## Tech Stack
 
 - **Language:** Python 3.10+
